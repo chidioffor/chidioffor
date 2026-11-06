@@ -79,6 +79,27 @@ I work across the full path from product experience and service architecture to 
 
 ---
 
+### 04 — Hand Sanitiser Depot  
+*E-commerce storefront & fulfilment workflow*
+
+<a href="https://github.com/chidioffor/hand-sanitiser-depot-showcase"><img src="https://raw.githubusercontent.com/chidioffor/chidioffor/master/assets/hand-sanitiser-depot.svg" alt="Hand Sanitiser Depot visual showing catalogue, checkout, order, and fulfilment workflow" width="100%" /></a>
+
+| Focus | Engineering signals |
+|---|---|
+| Customer journey from catalogue to order confirmation | Ruby · Rails · Solidus · MySQL |
+| Clear separation of commerce, payment, and fulfilment concerns | Checkout workflows · gateway boundaries · order state modelling |
+| Maintainable storefront delivery | Webpacker · SCSS · browser testing · deployment automation |
+
+<details>
+<summary><strong>What this work demonstrates</strong></summary>
+
+- Building a structured e-commerce journey that stays understandable for customers and operations teams.
+- Modelling order progress explicitly—from basket and payment confirmation through fulfilment readiness.
+- Keeping sensitive payment handling behind provider integration boundaries.
+</details>
+
+---
+
 ## Engineering approach
 
 | Make the system legible | Design for trust | Build for change |
