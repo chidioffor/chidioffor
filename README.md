@@ -34,7 +34,7 @@ I work across the full path from product experience and service architecture to 
 ### 02 — Document Ledger Professional  
 *Document intelligence & verification*
 
-<img src="https://raw.githubusercontent.com/chidioffor/chidioffor/master/assets/document-ledger.svg" alt="Document Ledger Professional visual showing a verified document" width="100%" />
+<a href="https://github.com/chidioffor/document-ledger-showcase"><img src="https://raw.githubusercontent.com/chidioffor/chidioffor/master/assets/document-ledger.svg" alt="Document Ledger Professional visual showing a verified document" width="100%" /></a>
 
 | Focus | Engineering signals |
 |---|---|
@@ -55,7 +55,7 @@ I work across the full path from product experience and service architecture to 
 ### 03 — Hybrid Crypto Bank  
 *Fiat/crypto platform & payment routing*
 
-<img src="https://raw.githubusercontent.com/chidioffor/chidioffor/master/assets/hybrid-bank.svg" alt="Hybrid Crypto Bank visual with payment rail architecture" width="100%" />
+<a href="https://github.com/chidioffor/hybrid-crypto-bank-showcase"><img src="https://raw.githubusercontent.com/chidioffor/chidioffor/master/assets/hybrid-bank.svg" alt="Hybrid Crypto Bank visual with payment rail architecture" width="100%" /></a>
 
 | Focus | Engineering signals |
 |---|---|
